@@ -24,10 +24,20 @@ Enfoque en la resolución eficiente de problemas y la colaboración efectiva en 
 
 <a href="https://github.com/omarpaezdev" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarpaezdev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+
+
+
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/omarpaezdev/fs-pt-118-omarpaez-generador-cartas-aleatorias" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=omarpaezdev&repo=fs-pt-118-omarpaez-generador-cartas-aleatorias&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/omarpaezdev/fs-pt-118-omarpaez-generadornombrededominios" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=omarpaezdev&repo=fs-pt-118-omarpaez-generadornombrededominios&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/omarpaezdev/proyecto-final-mentormatch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=omarpaezdev&repo=proyecto-final-mentormatch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/omarpaezdev/fs-pt-118-omarpaez-blog-pokemon" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=omarpaezdev&repo=fs-pt-118-omarpaez-blog-pokemon&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 <br /><br /><br /><br /><br />
 
-<div width="100%" align="center"><a href="https://github.com/omarpaezdev/fs-pt-118-omarpaez-feedinstagram" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=omarpaezdev&repo=fs-pt-118-omarpaez-feedinstagram&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+<div width="100%" align="center"><a href="https://github.com/omarpaezdev/fs-pt-118-omarpaez-todolist-react-fetch" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=omarpaezdev&repo=fs-pt-118-omarpaez-todolist-react-fetch&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+
+
+[![Repo 1](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/pin/?username=omarpaezdev&repo=proyecto-final-mentormatch&theme=dark&hide_border=true)](https://github.com/omarpaezdev/proyecto-final-mentormatch)
+
+
