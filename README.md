@@ -39,7 +39,7 @@ Enfoque en la resolución eficiente de problemas y la colaboración efectiva en 
     />
   </a>
 
-  <a href="https://github.com/omarpaezdev/fs-pt-118-omarpaez-blog-pokemon" align="right">
+  <a href="https://github.com/omarpaezdev/blog-pokemon" align="right">
     <img 
       align="right" 
       width="45%" 
