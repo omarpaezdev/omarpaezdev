@@ -24,7 +24,15 @@ Enfoque en la resolución eficiente de problemas y la colaboración efectiva en 
  <h2>Mis estadisticas de GitHub</h2>
 
 <a href="http://www.github.com/omarpaezdev"><img src="https://github-readme-streak-stats.herokuapp.com/?user=omarpaezdev&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- ===================== GITHUB STATS ===================== -->
+  <a href="https://github.com/omarpaezdev">
+    <img 
+      src="https://mirepo-opal.vercel.app/api?username=omarpaezdev&show_icons=true&count_private=true&hide=prs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true"
+      alt="GitHub Stats"
+    />
+  </a>
 
+  <br/><br/>
 
 <h2>Top Repositorios</h2>
 
